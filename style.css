@@ -1,0 +1,398 @@
+*{
+margin: 0px;
+padding: 0px;
+box-sizing: border-box;
+}
+.hhst{
+    position: fixed;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 55px;
+    background-color: #444;
+    z-index: 4;
+    width: 100%;
+}
+
+.divn1{
+    color: #ffffff;
+justify-content: space-around;
+display: flex;
+width: 20%;
+align-items: center;
+}
+
+.hsoub-menu-item-link-img{
+    display: inline-block;
+    height: 36px;
+    width: 36px;
+    margin: -1px 0 1px;
+    vertical-align: middle;
+    border: 0;
+    border-radius: 100px;
+}
+
+
+.imml{
+    width: 150px;
+    height: 35px;
+
+}
+
+.divn3{
+color: #ffffff;
+display: flex;
+justify-content: space-around;
+flex-direction: row;
+width: 65%;
+align-items: center;
+}
+
+.hsoub-bars-icon {
+    width: 22px;
+    height: 2px;
+    margin: 0px;
+    margin-left: 10px;
+    background-color: #efefef;
+    box-shadow: 0 6px 0 0 #efefef, 0 -6px 0 0 #efefef;
+}
+.hsoub-menu-item-link{
+  
+    padding: 20px 18px;
+    overflow: hidden;
+    font-size: 17px;
+    color: #efefef;
+    text-decoration: none;
+    text-overflow: ellipsis;
+    cursor: pointer;
+    transition: background-color .2s;
+}
+
+.hsoub-menu-item-link{
+    padding: 20px 18px;
+    overflow: hidden;
+    font-size: 17px;
+    color: #efefef;
+    text-decoration: none;
+    text-overflow: ellipsis;
+    cursor: pointer;
+    transition: background-color .2s;
+}
+
+.hsoub-menu-item-link-icon fa fa-folder-open{
+    padding: 20px 18px;
+    overflow: hidden;
+    font-size: 17px;
+    color: #efefef;
+    text-decoration: none;
+    text-overflow: ellipsis;
+    cursor: pointer;
+    transition: background-color .2s;
+}
+
+.hsoub-menu-item-link{
+    padding: 20px 18px;
+    overflow: hidden;
+    font-size: 17px;
+    color: #efefef;
+    text-decoration: none;
+    text-overflow: ellipsis;
+    cursor: pointer;
+    transition: background-color .2s;
+}
+
+.divbb{
+ background-image: url(bbb.jpg);
+ background-size: cover;
+ background-position: center 48%;
+
+ height: 600;
+ background-repeat: no-repeat;
+
+}
+
+.bblo{
+color: black;
+font-size: 40px;
+font-family: sans-serif;
+position: relative;
+top: 30%;
+display: flex;
+justify-content: center;
+}
+
+.bblo2{
+    color: black;
+    font-size: 25px;
+    font-family: sans-serif;
+    position: relative;
+    top: 30%;
+    display: flex;
+    justify-content: center;
+    }
+
+.inpp{
+height: 60px;
+ text-align: right;
+position: relative;
+top: 34%;
+left: 15%;
+border: 1px solid #20dd59;
+padding-top: 6px;
+    padding-right: 12px;
+    padding-bottom: 6px;
+    padding-left: 12px;
+}
+
+.bbt{
+    position: relative;
+    top: 206px;
+    left: 263px;
+    width: 80px;
+    z-index: 1;
+    border-radius: 2px;
+    padding: 5px 5px 5px 5px;
+    font-size: 27px;
+    -webkit-appearance: none !important;
+    border-color: #52b035;
+    background: #52b035;
+    color: #fff !important;
+    padding: 0.7rem 5px;
+    box-sizing: border-box;
+    border-radius: 0.3rem;
+}
+
+.secc1{
+ width: 100%;
+ height: 500px;
+background-color: white;
+}
+
+.ddsc{
+ position: relative;
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+margin-top: 3%;
+}
+
+.ddsc2{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+    align-items: center;
+ }
+
+ .ddcsf{
+    text-align: center;
+    margin-top: 70px;
+    font-size: 30px;
+ }
+.obctt{
+ position: relative;
+opacity: 0.4;
+
+}
+
+.obctt:hover {
+    opacity: 1.0;
+  }
+
+.ppoe{
+position: absolute;
+top: 40px;
+left: 65px;
+  z-index: 2;
+  font-size: 30px;
+  }
+
+.ppoe2{
+    position: absolute;
+    top: 40px;
+    left: 65px;
+    z-index: 2;
+    font-size: 30px;
+}
+
+.ppoe3{
+    position: absolute;
+    top: 40px;
+    left: 70px;
+      z-index: 2;
+      font-size: 30px;
+}
+
+.ppoe4{
+    position: absolute;
+    top: 40px;
+    left: 120px;
+      z-index: 2;
+      font-size: 30px;
+}
+
+.divssm{
+position: relative;
+}
+.divssm2{
+    position: relative;
+}
+.divssm3{
+        position: relative;
+}
+.divssm4{
+    position: relative;
+}
+
+.ppoe5{
+    position: absolute;
+    top: 40px;
+    left: 65px;
+      z-index: 2;
+      font-size: 30px;
+      }
+    
+.ppoe6{
+     position: absolute;
+     top: 40px;
+     left: 90px;
+     z-index: 2;
+     font-size: 30px;
+ }
+ 
+ .ppoe7{
+     position: absolute;
+     top: 40px;
+     left: 95px;
+       z-index: 2;
+       font-size: 30px;
+ }
+ 
+ .ppoe8{
+     position: absolute;
+     top: 40px;
+     left: 90px;
+       z-index: 2;
+       font-size: 30px;
+ }
+
+.secc2{
+height: 1550px;
+width: 100%;
+background-color: #f1f1f1;
+}
+
+.bbsrb{
+background-color: #f1f1f1;
+border: #45962c solid 1px;
+margin-top: 79px;
+margin-left: 20px;
+color: #45962c;
+font-size: 20px;
+padding: 2px;
+height: 40px;
+width: 120px;
+}
+
+.bbsrb:hover{
+color: #ffffff;
+background-color: #45962c;
+}
+
+.servvv{
+margin-top: 79px;
+margin-right: 20px;
+font-size: 30px;
+}
+
+.introo{
+    display: flex;
+    justify-content: space-between;
+}
+.halfdives{
+display: flex;
+justify-content: space-around;
+width: 100%;
+padding: 0px;
+margin: 0px;
+}
+.halfdives img{
+width: 270px;
+height: 170px;
+}
+.larglink{
+color: black;
+text-decoration: none;
+position: absolute;
+right: 0px;
+top: 170px;
+
+}
+
+.halfdives div{
+position: relative;
+width: 270px;
+height: 250px;
+}
+
+.larglink:hover{
+color: #45962c;
+}
+
+.larglink2{
+    color: #777777;
+    text-decoration: none;
+    position: absolute;
+    right: 0px;
+    top: 200px;
+}
+
+
+.larglink3{
+    color: black;
+    text-decoration: none;
+    position: absolute;
+    right: 0px;
+    top: 255px;
+}
+
+.omaar{
+    list-style: none;
+    line-height: 1;
+    display: flex;
+    color: orange;
+    position: absolute;
+    top: 230px;
+    left: 183px;
+}
+
+.footers1{
+background-color: white;
+width: 100%;
+height: 400px;
+display: flex;
+justify-content: space-around;
+}
+.footers1 div a{
+text-decoration: none;
+color: #52b035;
+}
+
+.baar2{
+background-color: #f1f1f1;
+width: 100%;
+height: 60px;
+display: flex;
+justify-content: space-between;
+}
+.spacee{
+height: 70px;
+}
+
+.baar3{
+display: flex;
+justify-content: space-around;
+width: 40%;
+}
